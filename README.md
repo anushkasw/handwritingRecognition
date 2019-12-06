@@ -1,4 +1,3 @@
-# handwritingRecognition
 This folder contains the following Python scripts:
     1] train.py
     2] test.py
@@ -49,3 +48,4 @@ To train for All model:   python train.py All
 
 To test for AB model  :   python test.py AB 'test file name(.pkl)' output_AB.npy
 To test for All model :   python test.py All 'test file name(.pkl)' output_All.npy
+
